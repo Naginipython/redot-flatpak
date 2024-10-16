@@ -10,6 +10,8 @@ build-options:
     - --share=network
     - --socket=pulseaudio
     - --filesystem=host
+    - --device=all
+    - --talk-name=org.freedesktop.Flatpak
 modules:
   - shared-modules/glu/glu-9.json
   - name: scons
