@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component type="desktop-application">
+  <id>org.redotengine.Redot</id>
+
+  <name>Redot Engine</name>
+  <summary>2D and 3D cross-platform game engine</summary>
+
+  <metadata_license>MIT</metadata_license>
+  <project_license>MIT</project_license>
+
+  <description>
+    <p>
+      Redot Engine is a feature-packed, cross-platform game engine to create 2D and 3D games from a unified interface. It provides a comprehensive set of common tools, so that users can focus on making games without having to reinvent the wheel. Games can be exported with one click to a number of platforms, including the major desktop platforms (Linux, macOS, Windows), mobile platforms (Android, iOS), as well as Web-based platforms and consoles.
+    </p>
+  </description>
+
+  <launchable type="desktop-id">org.redotengine.Redot.desktop</launchable>
+  <screenshots>
+    <screenshot type="default">
+      <image>https://github.com/Redot-Engine/redot-engine/raw/master/screenshot.jpg</image>
+    </screenshot>
+  </screenshots>
+</component>

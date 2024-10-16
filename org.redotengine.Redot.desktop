@@ -1,0 +1,20 @@
+#!/usr/bin/env xdg-open
+[Desktop Entry]
+Categories=Development;Building;
+Comment[en_US]=2D and 3D cross-platform game engine
+Comment=2D and 3D cross-platform game engine
+Exec=redot
+GenericName[en_US]=
+GenericName=
+Icon=/home/ben/Code/Flatpak/org.redotengine.Redot/icon.svg
+MimeType=
+Name[en_US]=Redot Engine
+Name=Redot Engine
+Path=
+StartupNotify=true
+Terminal=false
+TerminalOptions=
+Type=Application
+Version=1.0
+X-KDE-SubstituteUID=false
+X-KDE-Username=
